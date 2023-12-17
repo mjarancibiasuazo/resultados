@@ -30,7 +30,7 @@
 "resultado_1": "2",
 "resultado_2": "3",
 "imagen_equipo_1": "https://github.com/mjarancibiasuazo/equipos-futbol/raw/08b245009852bce8828ae69685232c2fc55e76d0/equipo-1.png",
-"imagen_equipo_2": "https://github.com/mjarancibiasuazo/equipos-futbol/raw/08b245009852bce8828ae69685232c2fc55e76d0/equipo-10.png"
+"imagen_equipo_2": "https://github.com/mjarancibiasuazo/equipos-futbol/raw/08b245009852bce8828ae69685232c2fc55e76d0/equipo-7.png"
 },
 {
 "resultado_id": 3,
@@ -51,7 +51,7 @@
 {
 "resultado_id": 4,
 "nombre_torneo": "Torneo la Pintana 2023",
-"nombre_equipo_1": "X-Futbol",
+"nombre_equipo_1": "Panteras",
 "nombre_equipo_2": "Tigretón",
 "dia": "25",
 "mes": "Enero",
@@ -61,7 +61,7 @@
 "estado_partido": "Pendiente",
 "resultado_1": "0",
 "resultado_2": "0",
-"imagen_equipo_1": "https://github.com/mjarancibiasuazo/equipos-futbol/raw/08b245009852bce8828ae69685232c2fc55e76d0/equipo-10.png",
+"imagen_equipo_1": "https://github.com/mjarancibiasuazo/equipos-futbol/raw/08b245009852bce8828ae69685232c2fc55e76d0/equipo-6.png",
 "imagen_equipo_2": "https://github.com/mjarancibiasuazo/equipos-futbol/raw/08b245009852bce8828ae69685232c2fc55e76d0/equipo-12.png"
 },
 {
